@@ -1,0 +1,14 @@
+/* Base styles for НПМЦ site — theme lives in tailwind.config.js + index.css */
+
+html,
+body {
+  min-height: 100%;
+}
+
+img {
+  max-width: 100%;
+}
+
+button {
+  cursor: pointer;
+}

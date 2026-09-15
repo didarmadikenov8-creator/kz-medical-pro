@@ -1,0 +1,134 @@
+{
+  "project_name": "НПМЦ — Научно-практический медицинский центр (Almaty, Kazakhstan)",
+  "language": "ru",
+  "archetype": "ORGANIC & TRUSTED CLINICAL HIGH-PERFORMANCE",
+  "theme": "Medical Modern Light with Alternating Section Tone Blocks",
+  "colors": {
+    "primary_dark_blue": "#0B2545",
+    "primary_deep_blue": "#134074",
+    "brand_teal": "#008080",
+    "brand_teal_light": "#0D9488",
+    "sky_blue_bg": "#F0F7FF",
+    "turquoise_soft_bg": "#E6F4F8",
+    "white_bg": "#FFFFFF",
+    "dark_footer_bg": "#07162C",
+    "text_main": "#1E293B",
+    "text_muted": "#475569",
+    "border_subtle": "#CBD5E1",
+    "border_card": "#E2E8F0",
+    "accent_green": "#10B981"
+  },
+  "typography": {
+    "font_family_heading": "'Manrope', 'Plus Jakarta Sans', system-ui, sans-serif",
+    "font_family_body": "'Inter', system-ui, sans-serif",
+    "heading_h1": "text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-[#0B2545]",
+    "heading_h2": "text-3xl sm:text-4xl font-bold tracking-tight text-[#0B2545]",
+    "heading_h3": "text-xl sm:text-2xl font-semibold text-[#134074]",
+    "body_text": "text-base sm:text-lg leading-relaxed text-[#475569]"
+  },
+  "media_assets": {
+    "hero_doctors_team": "https://images.unsplash.com/photo-1755189118414-14c8dacdb082?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjY2NzN8MHwxfHNlYXJjaHwzfHxkb2N0b3IlMjBtZWRpY2FsJTIwdGVhbSUyMGNsaW5pYyUyMGhvc3BpdGFsfGVufDB8fHx8MTc4OTQ2Nzg3MXww&ixlib=rb-4.1.0&q=85",
+    "mri_equipment": "https://images.unsplash.com/photo-1666214280352-db292c05fd80?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1Nzl8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBtZWRpY2FsJTIwY2xpbmljJTIwaW50ZXJpb3IlMjBlcXVpcG1lbnQlMjB1bHRyYXNvdW5kJTIwbXJpfGVufDB8fHx8MTc4OTQ2Nzg3MXww&ixlib=rb-4.1.0&q=85",
+    "clinic_room": "https://images.unsplash.com/photo-1576085898384-b3cdb88736e9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1Nzl8MHwxfHNlYXJjaHw0fHxtb2Rlcm4lMjBtZWRpY2FsJTIwY2xpbmljJTIwaW50ZXJpb3IlMjBlcXVpcG1lbnQlMjB1bHRyYXNvdW5kJTIwbXJpfGVufDB8fHx8MTc4OTQ2Nzg3MXww&ixlib=rb-4.1.0&q=85",
+    "mri_patient": "https://images.unsplash.com/photo-1666214282459-c7dff167ecc0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1Nzl8MHwxfHNlYXJjaHwzfHxtb2Rlcm4lMjBtZWRpY2FsJTIwY2xpbmljJTIwaW50ZXJpb3IlMjBlcXVpcG1lbnQlMjB1bHRyYXNvdW5kJTIwbXJpfGVufDB8fHx8MTc4OTQ2Nzg3MXww&ixlib=rb-4.1.0&q=85",
+    "doctor_consulting_1": "https://images.unsplash.com/photo-1758691461935-202e2ef6b69f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1NDh8MHwxfHNlYXJjaHwyfHxwcm9mZXNzaW9uYWwlMjBkb2N0b3IlMjBwb3J0cmFpdCUyMHBoeXNpY2lhbiUyMGNvbnN1bHRpbmclMjBwYXRpZW50fGVufDB8fHx8MTc4OTQ2Nzg3MXww&ixlib=rb-4.1.0&q=85",
+    "doctor_consulting_2": "https://images.unsplash.com/photo-1758691463198-dc663b8a64e4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1NDh8MHwxfHNlYXJjaHwzfHxwcm9mZXNzaW9uYWwlMjBkb2N0b3IlMjBwb3J0cmFpdCUyMHBoeXNpY2lhbiUyMGNvbnN1bHRpbmclMjBwYXRpZW50fGVufDB8fHx8MTc4OTQ2Nzg3MXww&ixlib=rb-4.1.0&q=85",
+    "doctor_male_portrait_1": "https://images.unsplash.com/photo-1642975967602-653d378f3b5b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1NDh8MHwxfHNlYXJjaHw0fHxwcm9mZXNzaW9uYWwlMjBkb2N0b3IlMjBwb3J0cmFpdCUyMHBoeXNpY2lhbiUyMGNvbnN1bHRpbmclMjBwYXRpZW50fGVufDB8fHx8MTc4OTQ2Nzg3MXww&ixlib=rb-4.1.0&q=85",
+    "doctor_male_portrait_2": "https://images.unsplash.com/photo-1645066928295-2506defde470?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1NDh8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBkb2N0b3IlMjBwb3J0cmFpdCUyMHBoeXNpY2lhbiUyMGNvbnN1bHRpbmclMjBwYXRpZW50fGVufDB8fHx8MTc4OTQ2Nzg3MXww&ixlib=rb-4.1.0&q=85",
+    "doctor_mri_scan": "https://images.unsplash.com/photo-1758691463110-697a814b2033?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjY2NzN8MHwxfHNlYXJjaHw0fHxkb2N0b3IlMjBtZWRpY2FsJTIwdGVhbSUyMGNsaW5pYyUyMGhvc3BpdGFsfGVufDB8fHx8MTc4OTQ2Nzg3MXww&ixlib=rb-4.1.0&q=85"
+  },
+  "sections": [
+    {
+      "id": "header",
+      "name": "Sticky Header & Nav",
+      "background": "bg-white/95 backdrop-blur-md border-b border-slate-100 z-50 sticky top-0",
+      "features": ["Logo НПМЦ + Научно-практический медицинский центр", "Nav links: Услуги, Врачи, Диагностика, О центре, Отзывы, Контакты", "WhatsApp button (+7 707 700 0608)", "Записаться на приём CTA modal trigger", "Mobile drawer menu"]
+    },
+    {
+      "id": "hero",
+      "name": "Hero Section",
+      "background": "bg-gradient-to-br from-[#F0F7FF] via-[#E6F4F8] to-white py-16 lg:py-24",
+      "features": ["Heading: Забота о здоровье на современном уровне", "Subheading for Almaty multidisciplinary medical center", "4 Trust Badge metrics (15+ лет работы, 30+ врачей высшей категории, 50 000+ пациентов, 4D УЗИ & МРТ)", "Call to action buttons: Записаться онлайн & WhatsApp консультация", "Large image overlay card with medical staff & clinic interior"]
+    },
+    {
+      "id": "symptom_navigator",
+      "name": "Symptom Navigator (Что вас беспокоит?)",
+      "background": "bg-white py-12 border-y border-sky-100",
+      "features": ["Quick interactive symptom pill buttons (Головная боль, Боль в суставах, Одышка, Боль в животе, Высыпания, Высокое давление)", "Auto-filtering & suggestion of corresponding specialist (Невролог, Кардиолог, Гастроэнтеролог, etc.)", "Direct button to pre-fill appointment form with selected symptom"]
+    },
+    {
+      "id": "services",
+      "name": "Наши услуги (15 directions)",
+      "background": "bg-[#F0F7FF] py-20 lg:py-28",
+      "features": ["Grid of 15 medical directions with crisp Lucide icons", "Directions: Терапия, Кардиология, Неврология, Гинекология, Урология, Педиатрия, Хирургия, Офтальмология, Отоларингология (ЛОР), Эндокринология, Гастроэнтерология, Дерматология, Ортопедия и травматология, Функциональная диагностика, Реабилитация", "Card hover states with subtle lift and glow effect", "Modal drawer with full treatment details for each direction"]
+    },
+    {
+      "id": "doctors",
+      "name": "Наши врачи",
+      "background": "bg-white py-20 lg:py-28",
+      "features": ["Large physician cards with professional portrait photos", "Specialty, qualification rank, experience years, star rating", "Filter by department (Терапия, Кардиология, Неврология, etc.)", "Detailed Doctor Profile Modal with background, experience, certificates, schedule, and direct booking trigger"]
+    },
+    {
+      "id": "diagnostics",
+      "name": "Современная диагностика и оборудование",
+      "background": "bg-[#E6F4F8] py-20 lg:py-28",
+      "features": ["Large image cards for high-precision diagnostic gear (МРТ, КТ, Экспертное 4D УЗИ, Лаборатория, Эндоскопия)", "Specs summary badges (Точность 99.8%, Минимальная лучевая нагрузка)", "Image gallery / modal detail viewer"]
+    },
+    {
+      "id": "how_it_works",
+      "name": "Как проходит приём",
+      "background": "bg-gradient-to-r from-[#0B2545] to-[#008080] text-white py-20 lg:py-28",
+      "features": ["4 clear step cards with white/teal contrast styling", "Steps: 1. Быстрая запись -> 2. Первичный осмотр врачом -> 3. Точная диагностика -> 4. Персональный план лечения", "Interactive progress indicator"]
+    },
+    {
+      "id": "about",
+      "name": "О Научно-практическом медицинском центре",
+      "background": "bg-white py-20 lg:py-28",
+      "features": ["Clinic narrative & history in Almaty, Kazakhstan", "Image collage of interior, reception, and care team", "Licenses and quality standard badges", "Key clinic statistics count"]
+    },
+    {
+      "id": "why_us",
+      "name": "Почему выбирают НПМЦ (6 cards)",
+      "background": "bg-[#F0F7FF] py-20 lg:py-28",
+      "features": ["6 benefit cards with icons: Врачи высшей категории, Современный парк оборудования, Отсутствие очередей, Индивидуальные протоколы, Прозрачные цены, Удобный проезд и парковка"]
+    },
+    {
+      "id": "reviews",
+      "name": "Отзывы пациентов",
+      "background": "bg-white py-20 lg:py-28",
+      "features": ["Overall score widget (4.9 out of 5 based on 850+ reviews)", "Verified patient review cards with star ratings, department tags, and timestamps", "Filter by department or submit feedback trigger"]
+    },
+    {
+      "id": "appointment_cta",
+      "name": "Запись на приём (Interactive Form)",
+      "background": "bg-gradient-to-br from-[#134074] via-[#0B2545] to-[#008080] text-white py-20 lg:py-28",
+      "features": ["Form inputs: Имя пациента, Телефон (+7 707 ...), Выбор специализации / врача, Желаемая дата и время", "Direct submit POST integration with Sonner notification toast feedback", "Data privacy guarantee checkbox"]
+    },
+    {
+      "id": "contacts",
+      "name": "Контакты и карта",
+      "background": "bg-[#F0F7FF] py-20 lg:py-28",
+      "features": ["Phone / WhatsApp: +7 707 700 0608", "Address: г. Алматы, Медеуский район, пр. Аль-Фараби", "Working hours badge (Пн-Сб: 08:00–20:00, Вс: 09:00–15:00)", "Interactive Map Embed container with location pin"]
+    },
+    {
+      "id": "footer",
+      "name": "Footer",
+      "background": "bg-[#07162C] text-slate-300 py-16 border-t border-slate-800",
+      "features": ["Logo НПМЦ + tagline", "Quick navigation menu links", "Full contact details & emergency phone link", "Legal medical license notice (№ KZ...)", "Copyright 2026 НПМЦ Алматы"]
+    },
+    {
+      "id": "floating_actions",
+      "name": "Floating Action Buttons",
+      "background": "fixed bottom-6 right-6 z-50 flex flex-col gap-3",
+      "features": ["Direct WhatsApp button (+7 707 700 0608)", "Direct Call phone button", "Back to top smooth scroll trigger"]
+    }
+  ],
+  "instructions_to_main_agent": [
+    "Ensure all text is written in natural, grammatically correct Russian (Cyrillic script).",
+    "Use data-testid attribute on all interactive components (buttons, tabs, modals, forms).",
+    "Ensure responsive behavior: desktop, tablet, and mobile layouts are flawlessly styled.",
+    "Do NOT use generic grey or dark mode backgrounds for the primary landing sections - maintain a fresh clinical feel with alternating white, light blue (#F0F7FF), light turquoise (#E6F4F8), and deep blue accents.",
+    "Ensure Sonner toasts are used for appointment form confirmation.",
+    "Ensure smooth scrolling to anchor sections (#services, #doctors, #diagnostics, #about, #reviews, #contacts)."
+  ]
+}
